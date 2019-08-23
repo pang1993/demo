@@ -14,4 +14,8 @@ public class DemoController {
     public String index(){
         return "hello world";
     }
+
+    public void login(){
+        
+    }
 }
